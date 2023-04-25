@@ -73,4 +73,4 @@ The company is looking at prospective properties to buy to enter the market. You
 
 
 ## Contact
-Created by [UmeshWagharalkar] - feel free to contact me!
+Created by [[UmeshWagharalkar](https://github.com/UmeshWagharalkar)] - feel free to contact me!
