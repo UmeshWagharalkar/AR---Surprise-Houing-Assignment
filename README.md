@@ -28,15 +28,15 @@ The company is looking at prospective properties to buy to enter the market. You
 - matplotlib
 - seaborn
 - scikit-learn:
-    -LinearRegression
-    -Ridge
-    -Lasso
-    -GridSearchCV
-    -cross_val_score
-    -scale
-    -StandardScaler
-    -train_test_split
-    -r2_score
+- LinearRegression
+- Ridge
+- Lasso
+- GridSearchCV
+- cross_val_score
+- scale
+- StandardScaler
+- train_test_split
+- r2_score
   
 ## Conclusion from the Assignment:
 - We got a decent score for both Ridge and Lasso regression.
